@@ -6,5 +6,5 @@ a = "john.weak" + "#{n}" + "@killkitten.io"
 mails.push(a)
 n+=1
 end
-
-print mails
+a = mails.select()
+print a
